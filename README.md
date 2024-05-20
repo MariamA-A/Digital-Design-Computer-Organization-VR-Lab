@@ -77,5 +77,5 @@ If you want to use the Database, Register, login, and leaderboard feature, you n
 
 The following Video the First Level (AND logic gate)  
 
-![Digital-Design-Computer-Organization-VR-Lab.mov](https://github.com/MariamA-A/Digital-Design-Computer-Organization-VR-Lab/blob/main/Digital-Design-Computer-Organization-VR-Lab.mov)
+[![Digital Design Computer Organization VR Lab VID](https://img.youtube.com/vi/9SI2qsACa5k/0.jpg)](https://www.youtube.com/watch?v=9SI2qsACa5k)
  
