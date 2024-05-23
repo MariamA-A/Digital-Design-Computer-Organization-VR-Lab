@@ -55,30 +55,27 @@ If you want to use the Database, Register, login, and leaderboard feature, you n
 
 2. In unity while the project is open click on File-> Build Settings 
 
- 
+[![Screenshot-11.png](https://i.postimg.cc/dtntpkgR/Screenshot-11.png)](https://postimg.cc/vcgs6BYD)
 
-3. In Build Settings, select all the scenes in scenes in build there is 19 scenes in total. If there are missing scenes open each scene add them using Add Open Scenes. 
-
- 
-
- 
+3. In Build Settings, select all the scenes in scenes in build there is 19 scenes in total. If there are missing scenes open each scene add them using Add Open Scenes.
+   
+ [![01.png](https://i.postimg.cc/C55NykdX/01.png)](https://postimg.cc/QKL51BQJ)
 
 4. For platform Select Android. 
 
 5. Follow the following settings for the build. 
 
- 
+[![02.png](https://i.postimg.cc/wjCKG9xc/02.png)](https://postimg.cc/Js5dyVkG)
 
-6. For run Device in the drop-down menu select all compatible devices OR your Oculus Headset name. 
+7. For run Device in the drop-down menu select all compatible devices OR your Oculus Headset name. 
 
-7. Click Build And Run.  
+8. Click Build And Run.  
 
-8. The application should run immediately if your headset is in developer mode. 
+9. The application should run immediately if your headset is in developer mode. 
 
 ## Video of the Application: 
 
 The following Video the First Level (AND logic gate)  
 
-https://drive.google.com/file/d/1Y78xjPSAvWgUUeyXu6D2UdFWJWdftqny/view?usp=sharing 
-
+[![Digital Design Computer Organization VR Lab VID](https://img.youtube.com/vi/6Bsf2T9XBhI/0.jpg)](https://www.youtube.com/watch?v=6Bsf2T9XBhI)
  
